@@ -1,0 +1,138 @@
+{
+  "Mathematics": [
+    {
+      "Question": "What is 2 + 2?",
+      "Answer": 4
+    },
+    {
+      "Question": "What is the shape with four equal sides called?",
+      "Answer": "Square"
+    },
+    {
+      "Question": "What is 7 - 3?",
+      "Answer": 4
+    },
+    {
+      "Question": "What is 6 times 3?",
+      "Answer": 18
+    },
+    {
+      "Question": "What is 25 divided by 5?",
+      "Answer": 5
+    },
+    {
+      "Question": "What is the area of a rectangle with length 5 units and width 3 units?",
+      "Answer": "15 square units"
+    },
+    {
+      "Question": "Solve for x: 2x^2 + 3 = 7.",
+      "Answer": "x = 2"
+    },
+    {
+      "Question": "What is the slope of the line y = 2x + 3?",
+      "Answer": 2
+    }
+  ],
+  "Science": [
+    {
+      "Question": "What do plants need to grow?",
+      "Answer": "Water, sunlight, and soil"
+    },
+    {
+      "Question": "What is the largest planet in our solar system?",
+      "Answer": "Jupiter"
+    },
+    {
+      "Question": "What gas do we breathe in?",
+      "Answer": "Oxygen"
+    },
+    {
+      "Question": "What is the process by which plants make their food called?",
+      "Answer": "Photosynthesis"
+    },
+    {
+      "Question": "What is the center of an atom called?",
+      "Answer": "Nucleus"
+    },
+    {
+      "Question": "What is the boiling point of water in Celsius?",
+      "Answer": "100 degrees Celsius"
+    },
+    {
+      "Question": "What is the chemical formula for water?",
+      "Answer": "H₂O"
+    },
+    {
+      "Question": "What force keeps us on the ground?",
+      "Answer": "Gravity"
+    }
+  ],
+  "English": [
+    {
+      "Question": "What is the opposite of 'hot'?",
+      "Answer": "Cold"
+    },
+    {
+      "Question": "What is the plural form of 'child'?",
+      "Answer": "Children"
+    },
+    {
+      "Question": "What is the past tense of 'run'?",
+      "Answer": "Ran"
+    },
+    {
+      "Question": "What is a synonym for 'happy'?",
+      "Answer": "Joyful"
+    },
+    {
+      "Question": "What is an adjective?",
+      "Answer": "A word that describes a noun"
+    },
+    {
+      "Question": "What is a simile?",
+      "Answer": "A figure of speech comparing two unlike things using 'like' or 'as'"
+    },
+    {
+      "Question": "What is the main theme of a story?",
+      "Answer": "The central idea or message"
+    },
+    {
+      "Question": "What is a metaphor?",
+      "Answer": "A figure of speech that directly compares two unlike things without using 'like' or 'as'"
+    }
+  ],
+  "Social Studies": [
+    {
+      "Question": "Who is the President of the United States?",
+      "Answer": "Joe Biden"
+    },
+    {
+      "Question": "What is the capital of the United States?",
+      "Answer": "Washington, D.C."
+    },
+    {
+      "Question": "What are the three branches of the U.S. government?",
+      "Answer": "Legislative, Executive, Judicial"
+    },
+    {
+      "Question": "Who was the first President of the United States?",
+      "Answer": "George Washington"
+    },
+    {
+      "Question": "What is the largest continent?",
+      "Answer": "Asia"
+    },
+    {
+      "Question": "What is the longest river in the world?",
+      "Answer": "Nile River"
+    },
+    {
+      "Question": "What ancient civilization built the pyramids?",
+      "Answer": "The Egyptians"
+    },
+    {
+      "Question": "What was the main cause of World War I?",
+      "Answer": "The assassination of Archduke Franz Ferdinand"
+    }
+  ]
+}
